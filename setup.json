@@ -1,15 +1,15 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
-        "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
-        "auto_del": 0,
+        "token": "8276328016:AAEhZMU9pEJnum0lr7yJeoXCqCG8KdFgv84",
+        "api_id": "25489830",
+        "api_hash": "b3df97daea65252260b2c2513a94ee5a",
+        "workers": 100,
+        "db_uri": "mongodb+srv://malavika:malavika@cluster0.ixadh8g.mongodb.net/?appName=Cluster0",
+        "db_name": "malavika",
+        "fsubs": [],
+        "db": -1003515399563,
+        "auto_del": 300,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
             "FSUB": "",
@@ -22,4 +22,5 @@
         "disable_btn": true,
         "protect": false
     }
+
 ]
